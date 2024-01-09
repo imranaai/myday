@@ -1,7 +1,7 @@
 # myday
 
-A new Flutter project.
-
+1. Run 'flutter pub get".
+2. Run "flutter run"
 ## Getting Started
 
 This project is a starting point for a Flutter application.
